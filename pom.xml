@@ -8,7 +8,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
-        <exec.mainClass>com.mycompany.poryecto_final.Poryecto_final</exec.mainClass>
+        <exec.mainClass>com.mycompany.proyectoFinal.ProyectoFinal</exec.mainClass>
     </properties>
     
     <dependencies>
@@ -19,4 +19,5 @@
             <version>7.4.0</version>
         </dependency>
     </dependencies>
+    <name>proyecto_final</name>
 </project>

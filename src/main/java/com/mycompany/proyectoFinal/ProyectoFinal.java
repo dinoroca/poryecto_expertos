@@ -1,5 +1,5 @@
 
-package com.mycompany.poryectoFinal;
+package com.mycompany.proyectoFinal;
 
 import org.jpl7.Query;
 
