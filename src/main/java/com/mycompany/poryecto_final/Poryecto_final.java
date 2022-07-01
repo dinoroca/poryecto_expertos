@@ -12,7 +12,7 @@ public class Poryecto_final {
         
         System.out.println("-----Iniciando suma----");
         
-        String suma = "suma(6, 6, C).";
+        String suma = "suma(6, 10, C).";
         Query q2 = new Query(suma);
         String consulta = q2.oneSolution().get("C").toString();
         
