@@ -2,7 +2,7 @@
 package com.mycompany.poryecto_final;
 
 import org.jpl7.Query;
-public class Poryecto_final {
+public class ProyectoFinal {
 
     public static void main(String[] args) {
         String t1 = "consult('prueba.pl')";
