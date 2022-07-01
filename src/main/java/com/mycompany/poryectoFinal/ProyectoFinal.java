@@ -1,9 +1,9 @@
 
-package com.mycompany.poryecto_final;
+package com.mycompany.poryectoFinal;
 
 import org.jpl7.Query;
-public class ProyectoFinal {
 
+public class ProyectoFinal {
     public static void main(String[] args) {
         String t1 = "consult('prueba.pl')";
         
@@ -12,7 +12,7 @@ public class ProyectoFinal {
         
         System.out.println("-----Iniciando suma----");
         
-        String suma = "suma(6, 10, C).";
+        String suma = "suma(9, 10, C).";
         Query q2 = new Query(suma);
         String consulta = q2.oneSolution().get("C").toString();
         
