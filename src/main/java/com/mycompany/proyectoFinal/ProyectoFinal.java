@@ -18,6 +18,5 @@ public class ProyectoFinal {
         
         System.out.println("La suma es: "+ consulta);
         System.out.println("Holaaa mundo");
-        System.out.println("Hola mundo x2");
     }
 }
