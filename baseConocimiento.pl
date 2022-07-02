@@ -51,3 +51,11 @@ pregunta('¿Tiene título de Ingeniero Agrónomo, habilitado?'),
 pregunta('¿Tiene grado de magíster en Entomología o en Manejo Integrado de Plagas?'),
 pregunta('¿Tiene grado de Maestro en Medicina Veterinaria o Ciencias Veterinarias o Ciencia Animal o Producción Animal o afines?'),
 pregunta('¿Tiene de 3 años a más de experiencia?').
+
+%Pamela
+fca :-
+contrata_fca,
+pregunta('¿Tiene título de Ingeniero Agrónomo, habilitado?'),
+pregunta('¿Tiene grado de magíster en Entomología o en Manejo Integrado de Plagas?'),
+pregunta('¿Tiene grado de Maestro en Medicina Veterinaria o Ciencias Veterinarias o Ciencia Animal o Producción Animal o afines?'),
+pregunta('¿Tiene de 3 años a más de experiencia?').
