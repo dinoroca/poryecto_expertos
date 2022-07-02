@@ -12,7 +12,7 @@ public class ProyectoFinal {
         
         System.out.println("-----Iniciando suma----");
         
-        String suma = "suma(9, 10, C).";
+        String suma = "suma(10, 10, C).";
         Query q2 = new Query(suma);
         String consulta = q2.oneSolution().get("C").toString();
         
