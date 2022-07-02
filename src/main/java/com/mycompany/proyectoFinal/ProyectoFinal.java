@@ -17,5 +17,6 @@ public class ProyectoFinal {
         String consulta = q2.oneSolution().get("C").toString();
         
         System.out.println("La suma es: "+ consulta);
+        System.out.println("Holaaa mundo");
     }
 }
