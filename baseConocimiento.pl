@@ -58,15 +58,138 @@ pregunta('¿Tiene de 3 años a más de experiencia?').
 
 
 
-%blady pega aqui
+%blady pega aqui 
+% PLAZA 01-FIQM / QU242 QUÍMICA ANALÍTICA CUALITATIVA - Ingeniero Quimico
+fiqm :-
+contrata_fiqm,
+pregunta('¿Tiene grado de magister?'),
+pregunta('¿Tiene minimo 3 años de experencia en docencia universitaria o profesional?').
+
+% PLAZA 02-FIQM / AI246 FISICOQUÍMICA DE ALIMENTOS - INGENIERO EN INDUSTRIAS ALIMENTARIAS
+fiqm :-
+contrata_fiqm,
+pregunta('¿Tiene grado de magister?'),
+pregunta('¿Tiene minimo 3 años de experencia en docencia universitaria o profesional?').
+
+% PLAZA 03-FIQM / IQ556 SIMULACIÓN DE PROCESOS - Ingeniero Quimico
+fiqm :-
+contrata_fiqm,
+pregunta('¿Tiene grado de magister?'),
+pregunta('¿Tiene minimo 3 años de experencia en docencia universitaria o profesional?').
+
+% PLAZA 04-FIQM / AI-346 NUTRICION - Ingeniero en industrias alimentarias
+fiqm :-
+contrata_fiqm,
+pregunta('¿Tiene grado de magister?'),
+pregunta('¿Tiene minimo 3 años de experencia en docencia universitaria o profesional?').
+
+% PLAZA 05-FIQM / TA 458 ALIMENTOS BALANCEADOS - Ingeniero Agroindustrial
+fiqm :-
+contrata_fiqm,
+pregunta('¿Tiene grado de magister?'),
+pregunta('¿Tiene minimo 3 años de experencia en docencia universitaria o profesional?').
+
+%____ESCUELA PROFESIONAL DE INGENIERÍA DE QUÍMICA____
+% 01_1-FIQM / INGENIERIA ECONOMICA - Profesor auxiliar a dedicacion expcusiva
+fiqm :-
+contrata_fiqm,
+pregunta('¿Tiene titulo profesional en la especialidad?'),
+pregunta('¿Tiene gardo de maestro en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en docencia universitaria o profesional?').
+
+% 01_2-FIQM / PROYECTOS IMDUSTRIALES - Profesor auxiliar a dedicacion expcusiva
+fiqm :-
+contrata_fiqm,
+pregunta('¿Tiene titulo profesional en la especialidad?'),
+pregunta('¿Tiene gardo de maestro en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en docencia universitaria o profesional?').
+
+% 02_1-FIQM / BALANCE DE MATERIA Y ENERGIA - Profesor aux. a tiempo completo
+fiqm :-
+contrata_fiqm,
+pregunta('¿Tiene titulo profesional en la especialidad?'),
+pregunta('¿Tiene gardo de maestro en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en docencia universitaria o profesional?').
+
+% 02_2-FIQM / TERMODINAMICA DE PROCESOS II - Profesor aux. a tiempo completo
+fiqm :-
+contrata_fiqm,
+pregunta('¿Tiene titulo profesional en la especialidad?'),
+pregunta('¿Tiene gardo de maestro en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en docencia universitaria o profesional?').
+
+% 03_1-FIQM / QUIMICA ORGANICA - Profesor aux. a tiempo completo
+fiqm :-
+contrata_fiqm,
+pregunta('¿Tiene titulo profesional en la especialidad?'),
+pregunta('¿Tiene gardo de maestro en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en docencia universitaria o profesional?').
+
+% 03_2-FIQM / QUIMICA GENERAL I - Profesor aux. a tiempo completo
+fiqm :-
+contrata_fiqm,
+pregunta('¿Tiene titulo profesional en la especialidad?'),
+pregunta('¿Tiene gardo de maestro en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en docencia universitaria o profesional?').
+
+% 04_1-FIQM / QUIMICA GENERAL - Profesor aux. a tiempo completo
+fiqm :-
+contrata_fiqm,
+pregunta('¿Tiene titulo profesional en la especialidad?'),
+pregunta('¿Tiene gardo de maestro en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en docencia universitaria o profesional?').
+
+% 04_2-FIQM / QUIMICA GENERAL II - Profesor aux. a tiempo completo
+fiqm :-
+contrata_fiqm,
+pregunta('¿Tiene titulo profesional en la especialidad?'),
+pregunta('¿Tiene gardo de maestro en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en docencia universitaria o profesional?').
 
 
+%____ESCUELA PROFESIONAL DE INGENIERÍA EN INDUSTRIAS ALIMENTARIAS____
 
+% 05_1-FIQM / BALANCE DE MATERIA Y ENERGIA - Profesor aux. a tiempo completo
+fiqm :-
+contrata_fiqm,
+pregunta('¿Tiene titulo profesional en la especialidad?'),
+pregunta('¿Tiene gardo de maestro en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en docencia universitaria o profesional?').
 
+% 05_2-FIQM / INGENIERIA TERMODINAMICA - Profesor aux. a tiempo completo
+fiqm :-
+contrata_fiqm,
+pregunta('¿Tiene titulo profesional en la especialidad?'),
+pregunta('¿Tiene gardo de maestro en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en docencia universitaria o profesional?').
 
+% 06_1-FIQM / GESTION EMPRESARIAL - Profesor aux. a tiempo completo
+fiqm :-
+contrata_fiqm,
+pregunta('¿Tiene titulo profesional en la especialidad?'),
+pregunta('¿Tiene gardo de maestro en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en docencia universitaria o profesional?').
 
+% 06_2-FIQM / INGENIERIA DE BIOPROCESOS - Profesor aux. a tiempo completo
+fiqm :-
+contrata_fiqm,
+pregunta('¿Tiene titulo profesional en la especialidad?'),
+pregunta('¿Tiene gardo de maestro en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en docencia universitaria o profesional?').
 
+% 07_1-FIQM / FISICOQUIMICA DE ALIMENTOS - Profesor aux. a tiempo completo
+fiqm :-
+contrata_fiqm,
+pregunta('¿Tiene titulo profesional en la especialidad?'),
+pregunta('¿Tiene gardo de maestro en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en docencia universitaria o profesional?').
 
+% 07_2-FIQM / DISEÑOS DE EQUIPOS Y MAQUINARIAS - Profesor aux. a tiempo completo
+fiqm :-
+contrata_fiqm,
+pregunta('¿Tiene titulo profesional en la especialidad?'),
+pregunta('¿Tiene gardo de maestro en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en docencia universitaria o profesional?').
 
 
 
