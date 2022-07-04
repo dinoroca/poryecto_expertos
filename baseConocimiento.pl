@@ -203,8 +203,55 @@ pregunta('¿Tiene minimo 5 años de experencia en docencia universitaria o profe
 
 
 %dino pega aqui
+%ESCUELA PROFESIONAL DE DERECHO
+%PLAZA 01/ Derechos humanos e internacionales Prof. Aux. a tiempo completo
+fdcp :-
+contrata_fdcp,
+pregunta('¿Tiene título profesional en Derechos Humanos e internacionales?'),
+pregunta('¿Tiene grado de maestro para la formación de nivel pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
 
+%PLAZA 02/ Criminalística Prof. Aux. a tiempo completo
+fdcp :-
+contrata_fdcp,
+pregunta('¿Tiene título profesional en Criminalística?'),
+pregunta('¿Tiene grado de maestro para la formación de nivel pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
 
+%PLAZA 03/ Derecho de Menores Prof. Aux. a tiempo completo
+fdcp :-
+contrata_fdcp,
+pregunta('¿Tiene título profesional en Derecho de Menores?'),
+pregunta('¿Tiene grado de maestro para la formación de nivel pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 04/ Legislación Prof. Aux. a tiempo completo
+fdcp :-
+contrata_fdcp,
+pregunta('¿Tiene título profesional en Legislación?'),
+pregunta('¿Tiene grado de maestro para la formación de nivel pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 05/ Derecho II Prof. Aux. a tiempo completo
+fdcp :-
+contrata_fdcp,
+pregunta('¿Tiene título profesional en Derecho?'),
+pregunta('¿Tiene grado de maestro para la formación de nivel pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 05/ Derecho Comercial Prof. Aux. a tiempo completo
+fdcp :-
+contrata_fdcp,
+pregunta('¿Tiene título profesional en Derecho Comercial?'),
+pregunta('¿Tiene grado de maestro para la formación de nivel pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 05/ Derecho Empresarial Prof. Aux. a tiempo completo
+fdcp :-
+contrata_fdcp,
+pregunta('¿Tiene título profesional en Derecho Empresarial?'),
+pregunta('¿Tiene grado de maestro para la formación de nivel pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
 
 
 
