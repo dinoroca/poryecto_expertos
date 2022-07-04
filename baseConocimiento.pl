@@ -97,20 +97,22 @@ pregunta('¿Tiene de 3 años a más de experiencia?').
 
 
 %sotelo 
+fceac :-
+contrata_fceac,
+pregunta('¿Tiene como mínimo grado academico de Maestro o Titulo profesional?'),
+pregunta('¿Tiene título profesión en la especialidad?'),
+pregunta('¿Tiene el grado academico registrado en la SUNEDU?'),
+pregunta('¿Tiene minimo 3 años de experencia en docencia universitaria o profesional?'),
+pregunta('¿Está habilitado en la colegiatura respectiva?').
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+fce :-
+contrata_fce,
+pregunta('¿Tiene como mínimo grado academico de Maestro o Magister en educación?'),
+pregunta('¿Tiene el grado academico registrado en la SUNEDU?'),
+pregunta('¿Tiene título profesional universitario de Licenciado en Educación Física?'),
+pregunta('¿Tiene título profesional universitario de Licenciado en Educación Secundaria con alguna especialidad?'),
+pregunta('¿Tiene minimo 3 años de experencia en docencia universitaria o profesional?'),
+pregunta('¿Tiene constancia atualizada del Colegio Profesional correpondiente?').
 
 
 %pame
