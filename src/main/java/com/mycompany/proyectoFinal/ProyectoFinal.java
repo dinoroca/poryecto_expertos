@@ -11,12 +11,19 @@ public class ProyectoFinal {
         System.out.println(t1+ " " + (q1.hasMoreSolutions()? "Satisfactorio" : "No se pudo acceder"));
         
         System.out.println("-----Iniciando suma----");
+<<<<<<< HEAD
 
         String suma = "suma(9, 10, C).";
+=======
+        
+        String suma = "suma(10, 10, C).";
+>>>>>>> fb14ea77cd91ad9f1b6fc8c2fba3c4678aabb253
         Query q2 = new Query(suma);
         String consulta = q2.oneSolution().get("C").toString();
         
         System.out.println("La suma es: "+ consulta);
         System.out.println("Holaaa mundo");
+        System.out.println("hola ddd");
+        System.out.print("hola");
     }
 }
