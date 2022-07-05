@@ -192,18 +192,8 @@ pregunta('¿Tiene gardo de maestro en el nivel de pregrado?'),
 pregunta('¿Tiene minimo 5 años de experencia en docencia universitaria o profesional?').
 
 
-
-
-
-
-
-
-
-
-
-
 %dino pega aqui
-%ESCUELA PROFESIONAL DE DERECHO
+% FDCP / ESCUELA PROFESIONAL DE DERECHO
 %PLAZA 01/ Derechos humanos e internacionales Prof. Aux. a tiempo completo
 fdcp :-
 contrata_fdcp,
@@ -254,13 +244,58 @@ pregunta('¿Tiene grado de maestro para la formación de nivel pregrado?'),
 pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
 
 
+% FCSA / ESCUELA PROFESIONAL DE ENFERMERÍA
+%PLAZA 01/ Enfermería/Médico quirúrgico Prof. Aux. a tiempo completo
+fcsa :-
+contrata_fcsa,
+pregunta('¿Tiene título profesional en Enfermería (Enfermería/Médico quirúrgico)?'),
+pregunta('¿Tiene grado de maestro para la formación de nivel pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
 
+%PLAZA 02/ Semiología y Patología Prof. Aux. a tiempo parcial
+fcsa :-
+contrata_fcsa,
+pregunta('¿Tiene título profesional en Enfermería (Semiología/Patología)?'),
+pregunta('¿Tiene grado de maestro para la formación de nivel pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
 
+%PLAZA 03/ Terapéutica Prof. Aux. a tiempo parcial
+fcsa :-
+contrata_fcsa,
+pregunta('¿Tiene título profesional en Enfermería (Terapéutica)?'),
+pregunta('¿Tiene grado de maestro para la formación de nivel pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
 
+%PLAZA 04/ Fisiología Humana Prof. Aux. a tiempo parcial
+fcsa :-
+contrata_fcsa,
+pregunta('¿Tiene título profesional en Enfermería (Fisiología Humana)?'),
+pregunta('¿Tiene grado de maestro para la formación de nivel pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
 
+% FCSA / E.F.P OBSTETRICIA
+% PLAZA 05/ Ginecología Prof. Aux. a tiempo parcial
+fcsa :-
+contrata_fcsa,
+pregunta('¿Tiene título profesional en Obstetricia (Ginecología)?'),
+pregunta('¿Tiene grado de maestro para la formación de nivel pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
 
+% PLAZA 06/ Salud Pública Prof. Aux. a tiempo completo
+fcsa :-
+contrata_fcsa,
+pregunta('¿Tiene título profesional en Obstetricia (Salud Pública)?'),
+pregunta('¿Tiene grado de maestro para la formación de nivel pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
 
-
+% FCSA / E.F.P MEDICINA HUMANA
+% PLAZA 07/ Ginecobstreticia Prof. Asociado a dedicación exclusiva
+fcsa :-
+contrata_fcsa,
+pregunta('¿Tiene título profesional en Obstetricia (Ginecobstreticia)?'),
+pregunta('¿Tiene grado de maestro para la formación de nivel pregrado?'),
+pregunta('¿Fue nombrado antes como profesor auxiliar o cuenta con más de 10 años de experiencia?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
 
 
 
