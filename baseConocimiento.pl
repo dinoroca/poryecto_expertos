@@ -192,7 +192,7 @@ pregunta('¿Tiene gardo de maestro en el nivel de pregrado?'),
 pregunta('¿Tiene minimo 5 años de experencia en docencia universitaria o profesional?').
 
 
-%dino pega aqui
+% Dino pega aqui
 % FDCP / ESCUELA PROFESIONAL DE DERECHO
 %PLAZA 01/ Derechos humanos e internacionales Prof. Aux. a tiempo completo
 fdcp :-
