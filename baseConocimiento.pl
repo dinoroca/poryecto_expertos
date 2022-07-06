@@ -320,27 +320,350 @@ pregunta('¿Tiene minimo 3 años de experencia en docencia universitaria o profe
 pregunta('¿Tiene constancia atualizada del Colegio Profesional correpondiente?').
 
 
-%pame
+%pame pega aqui ......................................................................
+
+% FCS / ESCUELA PROFESIONAL DE TRABAJO SOCIAL
+%PLAZA 01/ Seminario de intervención pre profesional II 
+fcs :-
+contrata_fcs,
+pregunta('¿Tiene título profesional registrado en la SUNEDU?'),
 
 
+% FCS / ESCUELA PROFESIONAL DE ANTROPOLOGÍA SOCIAL
+%PLAZA 01/ Antroplogía y educación - Profesor aux. a tiempo completo
+fcs :-
+contrata_fcs,
+pregunta('¿Tiene título profesional en Antropología social o afines?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 02/ Métodos y técnicas de investigación social - Profesor aux. a tiempo completo
+fcs :-
+contrata_fcs,
+pregunta('¿Tiene título profesional en  Antropología social o afines?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 03/ Antropología Andina - Profesor aux. a tiempo completo
+fcs :-
+contrata_fcs,
+pregunta('¿Tiene título profesional en Antropología social o afines?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 04/ Ideología Andina - Profesor aux. a tiempo completo
+fcs :-
+contrata_fcs,
+pregunta('¿Tiene título profesional en  Antropología social o afines?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 05/ Ciencia Social - Profesor aux. a tiempo completo
+fcs :-
+contrata_fcs,
+pregunta('¿Tiene título profesional en Antropología social o afines?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 06/ Antropología Visual - Profesor aux. a tiempo completo
+fcs :-
+contrata_fcs,
+pregunta('¿Tiene título profesional en Antropología social o afines?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 07/ Sociología Rural - Profesor aux. a tiempo completo
+fcs :-
+contrata_fcs,
+pregunta('¿Tiene título profesional en Antropología social o afines?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 08/ Análisis de la Realidad Nacional - Profesor aux. a tiempo completo
+fcs :-
+contrata_fcs,
+pregunta('¿Tiene título profesional en Antropología social o afines?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 09/ Antropología y Medios de Comunicación - Profesor aux. a tiempo completo
+fcs :-
+contrata_fcs,
+pregunta('¿Tiene título profesional en Antropología social o afines?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
 
 
+% FCS / ESCUELA PROFESIONAL DE ARQUEOLOGÍA E HISTORIA
+%PLAZA 01/ Realidad Nacional - Profesor aux. a tiempo completo
+fcs :-
+contrata_fcs,
+pregunta('¿Tiene título profesional en Arqueología e historia o afines?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 02/ Historia de los límites del Perú - Profesor aux. a tiempo completo
+fcs :-
+contrata_fcs,
+pregunta('¿Tiene título profesional en Arqueología e historia o afines?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 03/ Arqueología Universal - Profesor aux. a tiempo completo
+fcs :-
+contrata_fcs,
+pregunta('¿Tiene título profesional en Arqueología e historia o afines?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 04/ Historia de América I- Profesor aux. a tiempo completo
+fcs :-
+contrata_fcs,
+pregunta('¿Tiene título profesional en Arqueología e historia o afines?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
 
 
+% FCS / ESCUELA PROFESIONAL DE CIENCIAS FISICO MATEMATICAS
+%PLAZA 01/ Análisis Numérico II - Profesor aux. a tiempo completo
+fimgc :-
+contrata_fimgc,
+pregunta('¿Tiene título profesional en Ciencias Físico Matematicas o afines?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 02/ Calculo Vectorial - Profesor aux. a tiempo completo
+fimgc :-
+contrata_fimgc,
+pregunta('¿Tiene título profesional en Ciencias Físico Matematicas o afines?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 03/ Matemática Básica - Profesor aux. a tiempo completo
+fimgc :-
+contrata_fimgc,
+pregunta('¿Tiene título profesional en Ciencias Físico Matematicas o afines?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 04/ Calculo Avanzado - Profesor aux. a tiempo completo
+fimgc :-
+contrata_fimgc,
+pregunta('¿Tiene título profesional en Ciencias Físico Matematicas o afines?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 05/ Algebra Lineal - Profesor aux. a dedicación exclusiva
+fimgc :-
+contrata_fimgc,
+pregunta('¿Tiene título profesional en Ciencias Físico Matematicas o afines?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 06/ Matemática II - Profesor aux. a dedicación exclusiva
+fimgc :-
+contrata_fimgc,
+pregunta('¿Tiene título profesional en Ciencias Físico Matematicas o afines?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 07/ Calculo Superior II - Profesor aux. a dedicación exclusiva
+contrata_fimgc,
+pregunta('¿Tiene título profesional en Ciencias Físico Matematicas o afines?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 08/ Matemática Discreta - Profesor aux. a dedicación exclusiva
+fimgc :-
+contrata_fimgc,
+pregunta('¿Tiene título profesional en Ciencias Físico Matematicas o afines?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 09/ Estadísticas y Probalidades - Profesor aux. a tiempo completo
+fimgc :-
+contrata_fimgc,
+pregunta('¿Tiene título profesional de Estadístico o afin?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 10/ Estadística Aplicada a los Negocios- Profesor aux. a tiempo completo
+fimgc :-
+contrata_fimgc,
+pregunta('¿Tiene título profesional de Estadístico o afin?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 11/ Bioestadística - Profesor aux. a tiempo completo
+fimgc :-
+contrata_fimgc,
+pregunta('¿Tiene título profesional de Estadístico o afin?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 12/ Modelos Lineales - Profesor aux. a tiempo completo
+fimgc :-
+contrata_fimgc,
+pregunta('¿Tiene título profesional de Estadístico o afin?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
 
 
+% FCS / ESCUELA PROFESIONAL DE INGENIERÍA CIVIL
+%PLAZA 01/ Caminos I - Profesor aux. a tiempo completo
+fimgc :-
+contrata_fimgc,
+pregunta('¿Tiene título profesional de Ingeniero civil o afin?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 02/ Programación de obras - Profesor aux. a tiempo completo
+fimgc :-
+contrata_fimgc,
+pregunta('¿Tiene título profesional de Ingeniero civil o afin?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 03/ Ingeniería ambiental - Profesor aux. a tiempo completo
+fimgc :-
+contrata_fimgc,
+pregunta('¿Tiene título profesional de Ingeniero civil o afin?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 04/ Materiales de construcción - Profesor aux. a tiempo completo
+fimgc :-
+contrata_fimgc,
+pregunta('¿Tiene título profesional de Ingeniero civil o afin?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 05/ Analisis estructural II - Profesor Principal a dedicación exclusiva
+fimgc :-
+contrata_fimgc,
+pregunta('¿Tiene título profesional de Ingeniero civil o afin?'),
+pregunta('¿Tiene grado de doctor para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene nombramiento y ratificación como profesor asociado?').
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 06/ Resistencia de materiales II - Profesor Principal a dedicación exclusiva
+fimgc :-
+contrata_fimgc,
+pregunta('¿Tiene título profesional de Ingeniero civil o afin?'),
+pregunta('¿Tiene grado de doctor para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene nombramiento y ratificación como profesor asociado?').
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
 
 
+% FCS / ESCUELA PROFESIONAL DE INGENIERÍA DE MINAS
+%PLAZA 01/ Maquinaria minera - Profesor aux. a tiempo completo
+fimgc :-
+contrata_fimgc,
+pregunta('¿Tiene título profesional de Ingeniero de minas o afin?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 02/ Transporte y extracción de materiales - Profesor aux. a tiempo completo
+fimgc :-
+contrata_fimgc,
+pregunta('¿Tiene título profesional de Ingeniero de minas o afin?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 03/ Mineralogía - Profesor aux. a tiempo completo
+fimgc :-
+contrata_fimgc,
+pregunta('¿Tiene título profesional de Ingeniero de minas o afin?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 04/ Petrología General - Profesor aux. a tiempo completo
+fimgc :-
+contrata_fimgc,
+pregunta('¿Tiene título profesional de Ingeniero de minas o afin?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 05/ Perforación y voladuras de rocas - Profesor aux. a tiempo completo
+fimgc :-
+contrata_fimgc,
+pregunta('¿Tiene título profesional de Ingeniero de minas o afin?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 06/ Informática aplicada a la minería - Profesor aux. a tiempo completo
+fimgc :-
+contrata_fimgc,
+pregunta('¿Tiene título profesional de Ingeniero de minas o afin?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 07/ Comercialización de Productos Minerales - Profesor aux. a tiempo completo
+contrata_fimgc,
+pregunta('¿Tiene título profesional de Ingeniero de minas o afin?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 08/ Relaciones Humanas - Profesor aux. a tiempo completo
+fimgc :-
+contrata_fimgc,
+pregunta('¿Tiene título profesional de Ingeniero de minas o afin?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 09/ Plan de Cierre y Recuperación de Minas - Profesor aux. a tiempo completo
+fimgc :-
+contrata_fimgc,
+pregunta('¿Tiene título profesional de Ingeniero de minas o afin?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 10/ Ingeniería Ambiental en Minería - Profesor aux. a tiempo completo
+fimgc :-
+contrata_fimgc,
+pregunta('¿Tiene título profesional de Ingeniero de minas o afin?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 11/ Topografía aplicada - Profesor aux. a tiempo completo
+fimgc :-
+contrata_fimgc,
+pregunta('¿Tiene título profesional de Ingeniero de minas o afin?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
+%PLAZA 12/ Dibujo de Ingeniería II - Profesor aux. a tiempo completo
+fimgc :-
+contrata_fimgc,
+pregunta('¿Tiene título profesional de Ingeniero de minas o afin?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
 
 
+% FCS / ESCUELA PROFESIONAL DE INGENIERÍA DE SISTEMAS
+%PLAZA 01/ Sistemas Operativos 
+fimgc :-
+contrata_fimgc,
+pregunta('¿Tiene título profesional de ingeniero de sistemas o afin?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
 
+%PLAZA 02/ Taller de computación
+fimgc :-
+contrata_fimgc,
+pregunta('¿Tiene título profesional de ingeniero de sistemas o afin?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
 
+%PLAZA 03/ Informatica III
+fimgc :-
+contrata_fimgc,
+pregunta('¿Tiene título profesional de ingeniero de sistemas o afin?'),
+pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
 
+% pame fin aqui ........................................................................
 
-
-
-
-%end
 fca :-
 contrata_fca,
 pregunta('¿Tiene título de Ingeniero Agrónomo, habilitado?'),
