@@ -302,22 +302,354 @@ pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
 
 
 %sotelo 
+
+%FCE / Facultad de ciencias de la educación
+%DEPARTAMENTO ACADÉMICO DE EDUCACIÓN Y CIENCIAS HUMANAS
+%PLAZA 01/ Didactica General
+fce :-
+contrata_fce,   
+pregunta('¿Tiene título profesional universitario de Licenciado en Educación'),
+pregunta('¿Tiene como mínimo grado academico de Maestro o Magister en educación?'),
+pregunta('¿Tiene el grado academico registrado en la SUNEDU?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?').
+
+%PLAZA 02/ Produccion y redaccion de textos para educacion primaria
+fce :-
+contrata_fce,   
+pregunta('¿Tiene título profesional universitario de Licenciado en Educación'),
+pregunta('¿Tiene como mínimo grado academico de Maestro o Magister en educación?'),
+pregunta('¿Tiene el grado academico registrado en la SUNEDU?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?').
+
+%PLAZA 03/ Problemas de lecto-escritura
+fce :-
+contrata_fce,   
+pregunta('¿Tiene título profesional universitario de Licenciado en Educación'),
+pregunta('¿Tiene como mínimo grado academico de Maestro o Magister en educación?'),
+pregunta('¿Tiene el grado academico registrado en la SUNEDU?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?').
+
+%PLAZA 04/ Metodologia de trabjo universitario 
+fce :-
+contrata_fce,   
+pregunta('¿Tiene título profesional universitario de Licenciado en Educación'),
+pregunta('¿Tiene como mínimo grado academico de Maestro o Magister en educación?'),
+pregunta('¿Tiene el grado academico registrado en la SUNEDU?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?').
+
+%PLAZA 05/ Organizacion, Planificacion y administracion en educacion primaria
+fce :-
+contrata_fce,   
+pregunta('¿Tiene título profesional universitario de Licenciado en Educación'),
+pregunta('¿Tiene como mínimo grado academico de Maestro o Magister en educación?'),
+pregunta('¿Tiene el grado academico registrado en la SUNEDU?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?').
+
+%PLAZA 06/ Didactica de la matematica para educacion primaria II
+fce :-
+contrata_fce,   
+pregunta('¿Tiene título profesional universitario de Licenciado en Educación'),
+pregunta('¿Tiene como mínimo grado academico de Maestro o Magister en educación?'),
+pregunta('¿Tiene el grado academico registrado en la SUNEDU?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?').
+
+%PLAZA 07/ Elaboracion de materiales educativos
+fce :-
+contrata_fce,   
+pregunta('¿Tiene título profesional universitario de Licenciado en Educación'),
+pregunta('¿Tiene como mínimo grado academico de Maestro o Magister en educación?'),
+pregunta('¿Tiene el grado academico registrado en la SUNEDU?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?').
+
+%PLAZA 08/ Escuela y comunidad
+fce :-
+contrata_fce,   
+pregunta('¿Tiene título profesional universitario de Licenciado en Educación'),
+pregunta('¿Tiene como mínimo grado academico de Maestro o Magister en educación?'),
+pregunta('¿Tiene el grado academico registrado en la SUNEDU?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?').
+
+%PLAZA 09/ Desarrollo de ka expresion artistica
+fce :-
+contrata_fce,   
+pregunta('¿Tiene título profesional universitario de Licenciado en Educación  '),
+pregunta('¿Tiene alguna especialidad en musica, arte o cultura?'),
+pregunta('¿Tiene grado de Maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?').
+
+%PLAZA 10/ Apreciacion Musical
+fce :-
+contrata_fce,   
+pregunta('¿Tiene título profesional universitario de Licenciado en Educación  '),
+pregunta('¿Tiene alguna especialidad en musica, arte o cultura?'),
+pregunta('¿Tiene grado de Maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?').
+
+%PLAZA 11/ Folklore
+fce :-
+contrata_fce,   
+pregunta('¿Tiene título profesional universitario de Licenciado en Educación  '),
+pregunta('¿Tiene alguna especialidad en musica, arte o cultura?'),
+pregunta('¿Tiene grado de Maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?').
+
+%PLAZA 13/ Produccion de audio visuales
+fce :-
+contrata_fce,   
+pregunta('¿Tiene título profesional universitario de Licenciado en Educación  '),
+pregunta('¿Tiene alguna especialidad en musica, arte o cultura?'),
+pregunta('¿Tiene grado de Maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?').
+
+%PLAZA 14/ Educacion artistica de II y III
+fce :-
+contrata_fce,   
+pregunta('¿Tiene título profesional universitario de Licenciado en Educación  '),
+pregunta('¿Tiene alguna especialidad en musica, arte o cultura?'),
+pregunta('¿Tiene grado de Maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?').
+
+%PLAZA 15/ Danzas y canto
+fce :-
+contrata_fce,   
+pregunta('¿Tiene título profesional universitario de Licenciado en Educación  '),
+pregunta('¿Tiene alguna especialidad en musica, arte o cultura?'),
+pregunta('¿Tiene grado de Maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?').
+
+%PLAZA 16/ Teatro
+fce :-
+contrata_fce,   
+pregunta('¿Tiene título profesional universitario de Licenciado en Educación  '),
+pregunta('¿Tiene alguna especialidad en musica, arte o cultura?'),
+pregunta('¿Tiene grado de Maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?').
+
+%PLAZA 17/ Fotografia y Holografia
+fce :-
+contrata_fce,   
+pregunta('¿Tiene título profesional universitario de Licenciado en Educación  '),
+pregunta('¿Tiene alguna especialidad en musica, arte o cultura?'),
+pregunta('¿Tiene grado de Maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?').
+
+%PLAZA 18/ Terapia familiar sistemica
+fce :-
+contrata_fce,   
+pregunta('¿Tiene título profesional universitario'),
+pregunta('¿Tiene alguna especialidad en psicologia, intervencion familiar o salud mental?'),
+pregunta('¿Tiene grado de Maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?').
+
+%PLAZA 19/ Terapia de problemas infantiles
+fce :-
+contrata_fce,   
+pregunta('¿Tiene título profesional universitario'),
+pregunta('¿Tiene alguna especialidad en psicologia, intervencion familiar o salud mental?'),
+pregunta('¿Tiene grado de Maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?').
+
+%PLAZA 20/ Psicologia y desarollo humano
+fce :-
+contrata_fce,   
+pregunta('¿Tiene título profesional universitario'),
+pregunta('¿Tiene alguna especialidad en psicologia, intervencion familiar o salud mental?'),
+pregunta('¿Tiene grado de Maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?').
+
+%PLAZA 21/ Psicologia Social
+fce :-
+contrata_fce,   
+pregunta('¿Tiene título profesional universitario'),
+pregunta('¿Tiene alguna especialidad en psicologia, intervencion familiar o salud mental?'),
+pregunta('¿Tiene grado de Maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?').
+
+%PLAZA 22/ Psicologia y sexualidad Humana
+fce :-
+contrata_fce,   
+pregunta('¿Tiene título profesional universitario'),
+pregunta('¿Tiene alguna especialidad en psicologia, intervencion familiar o salud mental?'),
+pregunta('¿Tiene grado de Maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?').
+
+%PLAZA 23/ Psicologia y Sexualidad Humana
+fce :-
+contrata_fce,   
+pregunta('¿Tiene título profesional universitario'),
+pregunta('¿Tiene alguna especialidad en psicologia, intervencion familiar o salud mental?'),
+pregunta('¿Tiene grado de Maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?').
+
+
+%PLAZA 24/ Autoestima y liderazgo
+fce :-
+contrata_fce,   
+pregunta('¿Tiene título profesional universitario'),
+pregunta('¿Tiene alguna especialidad en psicologia, intervencion familiar o salud mental?'),
+pregunta('¿Tiene grado de Maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?').
+
+
+%DEPARTAMENTO ACADÉMICO DE LENGUAS Y LITERATURA
+%PLAZA 01/ Comunicacion oral y escrita 
+fce :-
+contrata_fce,   
+pregunta('¿Tiene título profesional universitario de Licenciado en Educación'),
+pregunta('¿Tiene alguna especialidad de Lengua y Literatura Quechua y Castellana o afines?'),
+pregunta('¿Tiene como mínimo grado academico de Maestro o Magister en educación?'),
+pregunta('¿Tiene el grado academico registrado en la SUNEDU?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?'). 
+
+%PLAZA 02/ Español
+fce :-
+contrata_fce,   
+pregunta('¿Tiene título profesional universitario de Licenciado en Educación'),
+pregunta('¿Tiene alguna especialidad de Lengua y Literatura Quechua y Castellana o afines?'),
+pregunta('¿Tiene como mínimo grado academico de Maestro o Magister en educación?'),
+pregunta('¿Tiene el grado academico registrado en la SUNEDU?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?').
+
+%PLAZA 03/ Comunicacion oral y escrita
+fce :-
+contrata_fce,   
+pregunta('¿Tiene título profesional universitario de Licenciado en Educación'),
+pregunta('¿Tiene alguna especialidad de Lengua y Literatura Quechua y Castellana o afines?'),
+pregunta('¿Tiene como mínimo grado academico de Maestro o Magister en educación?'),
+pregunta('¿Tiene el grado academico registrado en la SUNEDU?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?').
+
+%PLAZA 04/ Literatura
+fce :-
+contrata_fce,   
+pregunta('¿Tiene título profesional universitario de Licenciado en Educación'),
+pregunta('¿Tiene alguna especialidad de Lengua y Literatura Quechua y Castellana o afines?'),
+pregunta('¿Tiene como mínimo grado academico de Maestro o Magister en educación?'),
+pregunta('¿Tiene el grado academico registrado en la SUNEDU?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?').
+
+%PLAZA 05/ Ingles I 
+fce :-
+contrata_fce,   
+pregunta('¿Tiene título profesional universitario en la especilidad (idioma ingles)?'),
+pregunta('¿Tiene grado de Maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?').
+
+%PLAZA 06/ Ingles II
+pregunta('¿Tiene título profesional universitario en la especilidad (idioma ingles)?'),
+pregunta('¿Tiene grado de Maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?').
+
+%PLAZA 07/ Ingles III
+pregunta('¿Tiene título profesional universitario en la especilidad (idioma ingles)?'),
+pregunta('¿Tiene grado de Maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?').
+
+%PLAZA 08/ Ingles Tecnico I
+pregunta('¿Tiene título profesional universitario en la especilidad (idioma ingles)?'),
+pregunta('¿Tiene grado de Maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?').
+
+%PLAZA 09/ Ingles Instrumetal
+pregunta('¿Tiene título profesional universitario en la especilidad (idioma ingles)?'),
+pregunta('¿Tiene grado de Maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?').
+
+%PLAZA 10/ Ingles Hablado II
+pregunta('¿Tiene título profesional universitario en la especilidad (idioma ingles)?'),
+pregunta('¿Tiene grado de Maestro para la formación en el nivel de pregrado?'),
+pregunta('¿Tiene minimo 5 años de experencia en el ejercicio profesional?').
+
+
+
+
+
+
+% Facultad de ciencias ecnomicas, administrativas y sociales
+% DEPARTAMENTO ACADÉMICO DE CIENCIAS ECONÓMICAS Y ADMINISTRATIVAS:
+%FCEAC / ESCUELA PROFESIONAL DE CONTABILIDAD Y AUDITORIA
 fceac :-
 contrata_fceac,
 pregunta('¿Tiene como mínimo grado academico de Maestro o Titulo profesional?'),
-pregunta('¿Tiene título profesión en la especialidad?'),
+pregunta('¿Tiene título profesional en la especialidad?'),
+pregunta('¿Tiene especialidad?'),
 pregunta('¿Tiene el grado academico registrado en la SUNEDU?'),
 pregunta('¿Tiene minimo 3 años de experencia en docencia universitaria o profesional?'),
 pregunta('¿Está habilitado en la colegiatura respectiva?').
 
-fce :-
-contrata_fce,
-pregunta('¿Tiene como mínimo grado academico de Maestro o Magister en educación?'),
+%PLAZA 01/ Contabilidad de impuestos Directos
+fceac :-
+contrata_fceac,
+pregunta('¿Tiene como mínimo grado academico de Maestro o Titulo profesional (contabilidad)?'),
+pregunta('¿Tiene título profesional en la especialidad?'),
 pregunta('¿Tiene el grado academico registrado en la SUNEDU?'),
-pregunta('¿Tiene título profesional universitario de Licenciado en Educación Física?'),
-pregunta('¿Tiene título profesional universitario de Licenciado en Educación Secundaria con alguna especialidad?'),
 pregunta('¿Tiene minimo 3 años de experencia en docencia universitaria o profesional?'),
-pregunta('¿Tiene constancia atualizada del Colegio Profesional correpondiente?').
+pregunta('¿Está habilitado en la colegiatura respectiva?').
+
+%PLAZA 02/ Introduccion a la contabilidad 
+fceac :-
+contrata_fceac,
+pregunta('¿Tiene como mínimo grado academico de Maestro o Titulo profesional (contabilidad)?'),
+pregunta('¿Tiene título profesional en la especialidad?'),
+pregunta('¿Tiene el grado academico registrado en la SUNEDU?'),
+pregunta('¿Tiene minimo 3 años de experencia en docencia universitaria o profesional?'),
+pregunta('¿Está habilitado en la colegiatura respectiva?').
+
+%PLAZA 03/ Contabilidad de sociedades I
+fceac :-
+contrata_fceac,
+pregunta('¿Tiene como mínimo grado academico de Maestro o Titulo profesional (contabilidad)?'),
+pregunta('¿Tiene título profesional en la especialidad?'),
+pregunta('¿Tiene especialidad en contaduria privada?'),
+pregunta('¿Tiene el grado academico registrado en la SUNEDU?'),
+pregunta('¿Tiene minimo 3 años de experencia en docencia universitaria o profesional?'),
+pregunta('¿Está habilitado en la colegiatura respectiva?').
+
+%PLAZA 04/ Contabilidad Gubernamental
+fceac :-
+contrata_fceac,
+pregunta('¿Tiene como mínimo grado academico de Maestro o Titulo profesional (contabilidad)?'),
+pregunta('¿Tiene título profesional en la especialidad?'),
+pregunta('¿Tiene especialidad en contaduria Publica?'),
+pregunta('¿Tiene el grado academico registrado en la SUNEDU?'),
+pregunta('¿Tiene minimo 3 años de experencia en docencia universitaria o profesional?'),
+pregunta('¿Está habilitado en la colegiatura respectiva?').
+
+%PLAZA 05/ Presupuesto Gubernamental
+fceac :-
+contrata_fceac,
+pregunta('¿Tiene como mínimo grado academico de Maestro o Titulo profesional (contabilidad)?'),
+pregunta('¿Tiene título profesional en la especialidad?'),
+pregunta('¿Tiene especialidad en contaduria Publica?'),
+pregunta('¿Tiene el grado academico registrado en la SUNEDU?'),
+pregunta('¿Tiene minimo 3 años de experencia en docencia universitaria o profesional?'),
+pregunta('¿Está habilitado en la colegiatura respectiva?').
+
+%FCEAC / ESCUELA PROFESIONAL DE ADMINISTRACIÓN DE EMPRESAS
+%PLAZA 06/ Investigacion de mercados
+fceac :-
+contrata_fceac,
+pregunta('¿Tiene como mínimo grado academico de Maestro o Titulo profesional ?'),
+pregunta('¿Tiene título profesional en la especialidad (Administracio o afines)?'),
+pregunta('¿Tiene el grado academico registrado en la SUNEDU?'),
+pregunta('¿Tiene minimo 3 años de experencia en docencia universitaria o profesional?').
+
+%PLAZA 07/ Gerencia de la calidad y productividad
+fceac :-
+contrata_fceac,
+pregunta('¿Tiene como mínimo grado academico de Maestro o Titulo profesional ?'),
+pregunta('¿Tiene título profesional en la especialidad (Administracio o afines)?'),
+pregunta('¿Tiene el grado academico registrado en la SUNEDU?'),
+pregunta('¿Tiene minimo 3 años de experencia en docencia universitaria o profesional?').
+
+%PLAZA 08/ Comportamiento y Desarrollo Organizacional
+fceac :-
+contrata_fceac,
+pregunta('¿Tiene como mínimo grado academico de Maestro o Titulo profesional ?'),
+pregunta('¿Tiene título profesional en la especialidad (Administracio o afines)?'),
+pregunta('¿Tiene el grado academico registrado en la SUNEDU?'),
+pregunta('¿Tiene minimo 3 años de experencia en docencia universitaria o profesional?').
+
 
 
 %pame pega aqui ......................................................................
