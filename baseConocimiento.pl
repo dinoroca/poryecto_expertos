@@ -38,26 +38,6 @@ pregunta('¿Tiene grado de Maestro en Medicina Veterinaria o Ciencias Veterinari
 pregunta('¿Tiene de 3 años a más de experiencia?').
 
 
-%paolo pega aqui
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 %blady pega aqui 
 % PLAZA 01-FIQM / QU242 QUÍMICA ANALÍTICA CUALITATIVA - Ingeniero Quimico
 fiqm :-
@@ -661,32 +641,3 @@ contrata_fimgc,
 pregunta('¿Tiene título profesional de ingeniero de sistemas o afin?'),
 pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
 pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
-
-% pame fin aqui ........................................................................
-
-fca :-
-contrata_fca,
-pregunta('¿Tiene título de Ingeniero Agrónomo, habilitado?'),
-pregunta('¿Tiene grado de magíster en Entomología o en Manejo Integrado de Plagas?'),
-pregunta('¿Tiene grado de Maestro en Medicina Veterinaria o Ciencias Veterinarias o Ciencia Animal o Producción Animal o afines?'),
-pregunta('¿Tiene de 3 años a más de experiencia?').
-
-fca :-
-contrata_fca,
-pregunta('¿Tiene título de Ingeniero Agrónomo, habilitado?'),
-pregunta('¿Tiene grado de magíster en Entomología o en Manejo Integrado de Plagas?'),
-pregunta('¿Tiene grado de Maestro en Medicina Veterinaria o Ciencias Veterinarias o Ciencia Animal o Producción Animal o afines?'),
-pregunta('¿Tiene de 3 años a más de experiencia?').
-
-%Pamela
-fca :-
-contrata_fca,
-pregunta('¿Tiene título de Ingeniero Agrónomo, habilitado?'),
-pregunta('¿Tiene grado de magíster en Entomología o en Manejo Integrado de Plagas?'),
-pregunta('¿Tiene grado de Maestro en Medicina Veterinaria o Ciencias Veterinarias o Ciencia Animal o Producción Animal o afines?'),
-pregunta('¿Tiene de 3 años a más de experiencia?').
-
-paolo
-fca :-
-contrata_fca,
-pregunta('¿Tiene título de Ingeniero Agrónomo, habilitado?'),
