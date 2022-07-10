@@ -736,7 +736,7 @@ pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?')
 pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
 
 
-% FCS / ESCUELA PROFESIONAL DE CIENCIAS FISICO MATEMATICAS
+%FCS / ESCUELA PROFESIONAL DE CIENCIAS FISICO MATEMATICAS
 %PLAZA 01/ Análisis Numérico II - Profesor aux. a tiempo completo
 fimgc :-
 contrata_fimgc,
@@ -973,3 +973,4 @@ contrata_fimgc,
 pregunta('¿Tiene título profesional de ingeniero de sistemas o afin?'),
 pregunta('¿Tiene grado de maestro para la formación en el nivel de pregrado?'),
 pregunta('¿Tiene 5 años o más ejerciendo esa profesión?').
+
