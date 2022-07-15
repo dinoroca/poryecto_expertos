@@ -43,6 +43,11 @@ public class interfazFrame extends javax.swing.JFrame {
         btn_salir.setForeground(new java.awt.Color(255, 255, 255));
         btn_salir.setText("SALIR");
         btn_salir.setBorder(null);
+        btn_salir.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                btn_salirActionPerformed(evt);
+            }
+        });
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
@@ -88,9 +93,10 @@ public class interfazFrame extends javax.swing.JFrame {
         }
     }//GEN-LAST:event_btn_enviarActionPerformed
 
-    private void btn_salirActionPerformed(java.awt.event.ActionEvent evt) {                                          
+    private void btn_salirActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btn_salirActionPerformed
         System.exit(0);
-    }
+    }//GEN-LAST:event_btn_salirActionPerformed
+
     
     public static void main(String args[]) {
         try{
